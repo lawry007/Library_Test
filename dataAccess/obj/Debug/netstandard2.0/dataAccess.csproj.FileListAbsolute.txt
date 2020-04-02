@@ -1,0 +1,12 @@
+C:\Users\loolaoluwa\source\repos\Library_Test\dataAccess\bin\Debug\netstandard2.0\dataAccess.deps.json
+C:\Users\loolaoluwa\source\repos\Library_Test\dataAccess\bin\Debug\netstandard2.0\dataAccess.dll
+C:\Users\loolaoluwa\source\repos\Library_Test\dataAccess\bin\Debug\netstandard2.0\dataAccess.pdb
+C:\Users\loolaoluwa\source\repos\Library_Test\dataAccess\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\loolaoluwa\source\repos\Library_Test\dataAccess\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\loolaoluwa\source\repos\Library_Test\dataAccess\obj\Debug\netstandard2.0\dataAccess.csprojAssemblyReference.cache
+C:\Users\loolaoluwa\source\repos\Library_Test\dataAccess\obj\Debug\netstandard2.0\dataAccess.csproj.CoreCompileInputs.cache
+C:\Users\loolaoluwa\source\repos\Library_Test\dataAccess\obj\Debug\netstandard2.0\dataAccess.AssemblyInfoInputs.cache
+C:\Users\loolaoluwa\source\repos\Library_Test\dataAccess\obj\Debug\netstandard2.0\dataAccess.AssemblyInfo.cs
+C:\Users\loolaoluwa\source\repos\Library_Test\dataAccess\obj\Debug\netstandard2.0\dataAccess.csproj.CopyComplete
+C:\Users\loolaoluwa\source\repos\Library_Test\dataAccess\obj\Debug\netstandard2.0\dataAccess.dll
+C:\Users\loolaoluwa\source\repos\Library_Test\dataAccess\obj\Debug\netstandard2.0\dataAccess.pdb

@@ -1,0 +1,14 @@
+C:\Users\loolaoluwa\source\repos\Library_Test\Library_Test\bin\Debug\netcoreapp2.2\Library_Test.deps.json
+C:\Users\loolaoluwa\source\repos\Library_Test\Library_Test\bin\Debug\netcoreapp2.2\Library_Test.runtimeconfig.json
+C:\Users\loolaoluwa\source\repos\Library_Test\Library_Test\bin\Debug\netcoreapp2.2\Library_Test.runtimeconfig.dev.json
+C:\Users\loolaoluwa\source\repos\Library_Test\Library_Test\bin\Debug\netcoreapp2.2\Library_Test.dll
+C:\Users\loolaoluwa\source\repos\Library_Test\Library_Test\obj\Debug\netcoreapp2.2\Library_Test.csprojAssemblyReference.cache
+C:\Users\loolaoluwa\source\repos\Library_Test\Library_Test\obj\Debug\netcoreapp2.2\Library_Test.csproj.CoreCompileInputs.cache
+C:\Users\loolaoluwa\source\repos\Library_Test\Library_Test\obj\Debug\netcoreapp2.2\Library_Test.RazorAssemblyInfo.cache
+C:\Users\loolaoluwa\source\repos\Library_Test\Library_Test\obj\Debug\netcoreapp2.2\Library_Test.RazorAssemblyInfo.cs
+C:\Users\loolaoluwa\source\repos\Library_Test\Library_Test\obj\Debug\netcoreapp2.2\Library_Test.AssemblyInfoInputs.cache
+C:\Users\loolaoluwa\source\repos\Library_Test\Library_Test\obj\Debug\netcoreapp2.2\Library_Test.AssemblyInfo.cs
+C:\Users\loolaoluwa\source\repos\Library_Test\Library_Test\obj\Debug\netcoreapp2.2\Library_Test.RazorTargetAssemblyInfo.cache
+C:\Users\loolaoluwa\source\repos\Library_Test\Library_Test\bin\Debug\netcoreapp2.2\Library_Test.pdb
+C:\Users\loolaoluwa\source\repos\Library_Test\Library_Test\obj\Debug\netcoreapp2.2\Library_Test.dll
+C:\Users\loolaoluwa\source\repos\Library_Test\Library_Test\obj\Debug\netcoreapp2.2\Library_Test.pdb
